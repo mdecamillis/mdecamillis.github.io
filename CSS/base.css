@@ -4,15 +4,25 @@
     Padding: 1px;
 }
 
+nav {
+    width: 100%;
+    height: auto;
+    font-size: 16px;
+    font-family: georgia, "times new roman", times, serif;
+    text-align: left;
+    background color: #53a28a;
+    border-radius: 8px;
+}
+
 h1 {
-    color: #237856;
+    color: #009989;
     font-size: 40px;
     line-height: 44px;
     margin-top: 4px;
 }
 
 h2 {
-    color: #782345;
+    color: 043330;
     font-size: 22px;
 } 
 
@@ -25,13 +35,14 @@ p {
 }
 
 img {
-    border: 5px solid #ffffff;
+    border: 5px solid #043330;
     padding: 5px; /* TRouBLe */
     width: 100%;
 }
 
 
 body {
+    background-color: #adb9c9;
     font-family: georgia, times, sarif;
     font-size: 16px;
     line-height: 24px;
