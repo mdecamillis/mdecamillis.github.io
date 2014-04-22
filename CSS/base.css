@@ -11,9 +11,14 @@ nav {
     font-family: georgia, "times new roman", times, serif;
     text-align: center;
     font-weight: 800;
-    font-size-adjust:auto
-    background color: #53a28a;
+    background-color: #53a28a;
     border-radius: 8px;
+}
+
+nav a {
+    color: #eeeeee;
+    text-decoration: none;
+    margin-right: 5px;
 }
 
 h1 {
@@ -24,7 +29,7 @@ h1 {
 }
 
 h2 {
-    color: 043330;
+    color: #043330;
     font-size: 22px;
 } 
 
@@ -39,7 +44,7 @@ p {
 img {
     border: 5px solid #043330;
     padding: 5px; /* TRouBLe */
-    width: 100%;
+    width: 100%
 }
 
 
@@ -59,7 +64,18 @@ aside {
 }
 
 footer {
+    
     clear: both;
     font-size: 12px;
     padding: 0 10px 0 10px;
+    
+    width: 100%;
+    height: auto;
+    font-size: 16px;
+    font-family: georgia, "times new roman", times, serif;
+    text-align: center;
+    font-weight: 800;
+    font-size-adjust:auto
+    background color: #53a28a;
+    border-radius: 8px;
 }
